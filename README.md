@@ -8,6 +8,8 @@
 > - **_NODE.JS - Software._**
 > - **_ADONISJS - Framework for Node.js._**
 
+![Matheus Battisti](/assets/Capa%20Matheus%20Battisti.jpg)
+
 ## ![](/icons/instrucoes.png) Instructions for Execute the Project 
 
 1. Make a project copy to your machine: 
