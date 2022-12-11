@@ -60,3 +60,4 @@ Finally we will use this project to complement another one I'm developing in Ang
 > Channel where I learned how to do this project.
 
 1. [Matheus Battisti](https://www.youtube.com/watch?v=y8XfJJYhXPE)
+2. [Site Official AdonisJS](https://adonisjs.com)
