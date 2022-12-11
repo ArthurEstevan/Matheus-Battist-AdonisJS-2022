@@ -52,3 +52,11 @@ Finally we will use this project to complement another one I'm developing in Ang
 - ![Versioning](https://img.shields.io/badge/Versioning-black?style=for-the-badge&logo=git&logoColor=#F05032)&nbsp; Versioning - Versioning from GitHub
 
 <br>
+
+---
+
+## 📚 _References_ 
+
+> Channel where I learned how to do this project.
+
+1. [Matheus Battisti](https://www.youtube.com/watch?v=y8XfJJYhXPE)
