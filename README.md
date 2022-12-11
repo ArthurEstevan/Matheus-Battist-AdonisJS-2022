@@ -1,16 +1,15 @@
-# AdonisJS ![](/assets/AdonisJS%20Logo.svg)
+# AdonisJS ![](/Icons/AdonisJS%20Logo.svg)
 
 ## _Repository with several subjects in AdonisJS_
 
-> _Practical content carried out in the classroom during the Entra21 project._
+> _Practical contents carried out during extracurricular studies._
 >
 > - **_JAVASCRIPT - Programming language._**
 > - **_NODE.JS - Software._**
-> - **_ADONISJS - Framework for Node.js._**
 
-![Matheus Battisti](/assets/Capa%20Matheus%20Battisti.jpg)
+![Matheus Battisti](/assets/Capa%20for%20Project.jpg)
 
-## ![](/icons/instrucoes.png) Instructions for Execute the Project 
+## ![](/Icons/instrucoes.png) Instructions for Execute the Project 
 
 1. Make a project copy to your machine: 
     - [Git Clone](https://github.com/ArthurEstevan/Matheus-Battist-AdonisJS-2022) ⇽ Clone this repository on your computer
@@ -18,12 +17,16 @@
 
 2. Import the project into your IDE and execute the application.
 
+3. Import too the list of collection in your Postman:
+- [Postman Collection](https://github.com/ArthurEstevan/Matheus-Battist-AdonisJS-2022/tree/master/Postman) ⇽ Opens this arquive in your postman, just like in the picture below
+
+
 
 <br>
     
 ---
 
-## ![](/icons/icon_conceito.png) About the Project
+## ![](/Icons/icon_conceito.png) About the Project
 
 Project developed in AdonisJs (framework for Node.Js), this project was intended to further fix the knowledge in the database, however, this time the database format was all Typescript. Using our standard Vscode front-end tool.
 Finally we will use this project to complement another one I'm developing in Angular (framework for Javascript). In the future you will be able to have access to both projects in a single one.
@@ -32,7 +35,7 @@ Finally we will use this project to complement another one I'm developing in Ang
 
 ---
 
-## ![](/icons/icons/configuracoes.png) Technologies Used
+## ![](/Icons/configuracoes.png) Technologies Used
 
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp; IDE - Integrated development environment
 
