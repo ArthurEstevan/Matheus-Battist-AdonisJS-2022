@@ -4,6 +4,7 @@
 
 > _Practical contents carried out during extracurricular studies._
 >
+> - **_TYPESCRIPT - Programming language._**
 > - **_JAVASCRIPT - Programming language._**
 > - **_NODE.JS - Software._**
 
